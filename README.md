@@ -1,2 +1,3 @@
-# project-in-student-data
+# meachine learning project
+
 my name
